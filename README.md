@@ -31,8 +31,7 @@ Currently, I'm working on an exciting project called [Testers Academy](https://w
 #
 #
 
-### 📊 Stats
+<!--  ### 📊 Stats
 
-![VahagnCh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VahagnCh&show_icons=true&theme=gruvbox)
+![VahagnCh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VahagnCh&show_icons=true&theme=gruvbox) -->
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=VahagnCh&theme=gruvbox&border_radius=4.5) -->
