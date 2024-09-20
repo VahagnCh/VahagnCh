@@ -4,7 +4,7 @@
 
 Hi there! I'm currently working as a Manual and Automation Tester, with a passion for ensuring quality in software development. I also enjoy creating various platforms for fun and practice, exploring new technologies, and applying them in real-world projects.
 
-Currently, I'm working on an exciting project called <a href="https://www.testersacademy.com/" target="_blank" rel="noopener noreferrer">Testers Academy</a>, which provides a more dynamic and easier way for anyone preparing for their ISTQB certifications to practice and improve their knowledge. I invite you to check it out and give it a try!
+Currently, I'm working on an exciting project called [Testers Academy](https://www.testersacademy.com/), which provides a more dynamic and easier way for anyone preparing for their ISTQB certifications to practice and improve their knowledge. I invite you to check it out and give it a try!
 
  <!--  <p align="left">
       <a href="https://github.com/VahagnCh?tab=followers">
