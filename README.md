@@ -1,8 +1,8 @@
 # Vahagn Chavushyan
 
-**`Quality Assurance Engineer (Tech & Dev Enthusiast)`**
+**`Project Manager (Tech & Dev Enthusiast)`**
 
-Hi there! I'm currently working as a Manual and Automation Tester, with a passion for ensuring quality in software development. I also enjoy creating various platforms for fun and practice, exploring new technologies, and applying them in real-world projects.
+Hi there! I'm currently working as a Project Manager specializing in agile frameworks like Scrum, with a strong background in both development and quality assurance. My passion lies in ensuring the highest quality standards in software development while leading teams to deliver projects efficiently. I enjoy building platforms, exploring new technologies, and applying them to real-world projects, ensuring successful outcomes in both development and QA processes.
 
 Currently, I'm working on an exciting project called [Testers Academy](https://www.testersacademy.com/), which provides a more dynamic and easier way for anyone preparing for their ISTQB certifications to practice and improve their knowledge. I invite you to check it out and give it a try!
 
