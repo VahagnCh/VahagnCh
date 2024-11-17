@@ -1,10 +1,12 @@
 # Vahagn Chavushyan
 
-**`Project Manager (Tech & Dev Enthusiast)`**
+**`Tech and web3 enthusiast`**
 
-Hi there! I'm currently working as a Project Manager specializing in agile frameworks like Scrum, with a strong background in both development and quality assurance. My passion lies in ensuring the highest quality standards in software development while leading teams to deliver projects efficiently. I enjoy building platforms, exploring new technologies, and applying them to real-world projects, ensuring successful outcomes in both development and QA processes.
+Hi There! 
+I'm currently diving into Web3 technology, fueled by my passion for Web Development and excitement about decentralized systems., I love building projects that blend creativity with cutting-edge tech. Explore my work, and let’s connect to create something amazing! 🚀✨
 
-Currently, I'm working on an exciting project called [Testers Academy](https://www.testersacademy.com/), which provides a more dynamic and easier way for anyone preparing for their ISTQB certifications to practice and improve their knowledge. I invite you to check it out and give it a try!
+Check out my projects:
+1. [Testers Academy](https://www.testersacademy.com/)
 
  <!--  <p align="left">
       <a href="https://github.com/VahagnCh?tab=followers">
