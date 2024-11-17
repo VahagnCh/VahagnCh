@@ -3,9 +3,9 @@
 **`Tech and web3 enthusiast`**
 
 Hi There! 
-I'm currently diving into Web3 technology, fueled by my passion for Web Development and excitement about decentralized systems., I love building projects that blend creativity with cutting-edge tech. Explore my work, and let’s connect to create something amazing! 🚀✨
+I'm currently diving into Web3 technology and my growing curiosity about decentralized systems.  I’m finding Web3 technology super exciting and full of possibilities. 
+Explore my work, and let’s connect to create something amazing! 🚀✨
 
-Check out my projects:
 1. [Testers Academy](https://www.testersacademy.com/)
 
  <!--  <p align="left">
