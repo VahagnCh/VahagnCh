@@ -34,9 +34,9 @@ Explore my work, and let’s connect to create something amazing! 🚀✨
 #
 #
 
-**Contact me through [LinkedIn](https://www.linkedin.com/in/vahagnc/).**  
+**Contact me through**  
 <a href="https://www.linkedin.com/in/vahagnc/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="30" style="margin-left: 20px;" />
 </a>
 
 <!--  ### 📊 Stats
