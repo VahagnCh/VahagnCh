@@ -36,6 +36,7 @@ Explore my work, and let’s connect to create something amazing! 🚀✨
 
 **Contact me through**  
 
+[Vahagn Chavushyan's Personal page](https://vahagnchavushyan.com/)
 <a href="https://www.linkedin.com/in/vahagnc/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="30" style="margin-left: 20px;" />
 </a>
