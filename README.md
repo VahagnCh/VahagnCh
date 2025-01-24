@@ -7,6 +7,9 @@ I'm currently diving into Web3 technology and my growing curiosity about decentr
 Explore my work, and let’s connect to create something amazing! 🚀✨
 
 1. [Testers Academy](https://www.testersacademy.com/)
+2. [Smart Contract Lotery](https://github.com/VahagnCh/Foundry-Smart-Contract-Lottery)
+3. [Discord Bot](https://github.com/VahagnCh/DiscordBot)
+4. [Personal Portfolio Template Full Code](https://github.com/VahagnCh/personal-portfolio-public)
 
  <!--  <p align="left">
       <a href="https://github.com/VahagnCh?tab=followers">
